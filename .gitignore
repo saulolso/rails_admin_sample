@@ -1,0 +1,17 @@
+*.~
+*.#
+*~
+*.swp
+*.rbc
+*.gem
+*.lock
+*.livereload
+*.pid
+*.log
+*.DS_Store
+.bundle
+.data
+db/*.sqlite3
+log/*.log
+tmp/**/*
+*.sqlite3
